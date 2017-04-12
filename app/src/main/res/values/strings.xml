@@ -1,0 +1,53 @@
+<resources>
+
+    <!--API MESSAGES-->
+
+    <!--for MAIL:-->
+    <string name="empty_field_mail">Поле e-mail не может быть пустым</string>
+    <string name="error_field_mail">E-mail введен неверно</string>
+
+    <!--for PHONE_NUMBER:-->
+    <string name="empty_field_phone">Вы должны ввести номер телефона</string>
+    <string name="error_field_phone">Введите номер телефона в формате +7 (111) 222-33-44</string>
+    <string name="verification_code">Phone SMS verification is needed</string>
+    <string name="error_code">Код из СМС введен неверно</string>
+
+
+    <string name="app_name">Nadocars messenger</string>
+    <string name="title">Nadocars messenger</string>
+    <string name="prompt_email">Имейл</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="enter_message">Введите сообщение</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="registration_full_screen">только через полную версию сайта</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="error_invalid_email">Неверный адрес</string>
+    <string name="error_invalid_phone">Неверный телефонный номер</string>
+    <string name="error_short_password">Пароль слишком короткий</string>
+    <string name="error_empty_field">Это поле пустое</string>
+
+    <string name="error_wrong_login_or_password">Неверный логин или пароль</string>
+    <string name="error_server_error">Ошибка сервера</string>
+    <string name="error_no_internet">Интернет отсутствует</string>
+    <string name="error_incorrect_password">Неверный пароль</string>
+    <string name="error_field_required">Это поле обязательно</string>
+    <string name="set_check_interval">Интервал обновления</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="set_interval_dialog_title">Задайте интервал обновления</string>
+    <string name="title_activity_login_activity_temp">Войти</string>
+    <string name="set_interval_dialog_text">введите значение от 1 до 60</string>
+    <string name="user_avatar">Аватар пользователя</string>
+    <string name="remember_me">Запомнить меня</string>
+    <string name="authorization">Авторизация</string>
+
+    <string name="avatarUrl">avatarUrl</string>
+    <string name="send_button">Отправить</string>
+    <string name="message_hint">Введите сюда сообщение</string>
+
+
+    <string name="count_name">Мой счет</string>
+
+
+</resources>
